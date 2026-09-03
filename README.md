@@ -1,2 +1,2 @@
-# spring-boot-treina-recife
+# SpringBoot
 Aprendizados em springboot
