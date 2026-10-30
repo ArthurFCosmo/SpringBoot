@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "3.0 Aulas API com testes e migrations/54.0 Validação exótica (crm) no DTO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "54.0 Validação exótica (crm) no DTO"
             }
           }
         ]
@@ -179,15 +179,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Criar nova base": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "9bac7c317d3e4e39",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "3.0 Aulas API com testes e migrations/53.0 Validação exótica (telefone) no DTO.md",
+    "3.0 Aulas API com testes e migrations/54.0 Validação exótica (crm) no DTO.md",
+    "3.0 Aulas API com testes e migrations/52.0 Migrations.md",
+    "3.0 Aulas API com testes e migrations/51.0 Ajustes no gitignore + credenciais do BD.md",
+    "1.0 Aulas spring treina recife/5.0 Início do projeto de fato.md",
+    "1.0 Aulas spring treina recife/2.0 O que é Springboot.md",
+    "1.0 Aulas spring treina recife/1.0 Como funciona um backend.md",
+    "1.0 Aulas spring treina recife/7.0 A camada model 1.0 (Projeto).md",
+    "3.0 Aulas API com testes e migrations",
+    "1.0 Aulas spring treina recife/4.0 Inicio do projeto com o Spring Initializr.md",
+    "2.0 Aulas spring security/💠 49.0 Máquina de estados no Service — transições de StatusProjeto.md",
+    "2.0 Aulas spring security/💠 50.0 Testando a API com autenticação no Insomnia.md",
+    "1.0 Aulas spring treina recife/36.0 Swagger e OpenAPI.md",
+    "1.0 Aulas spring treina recife/34.0 @Entity e @Table separados.md",
+    "1.0 Aulas spring treina recife/33.0 RequiredArgsConstructor e injeção por construtor.md",
+    "1.0 Aulas spring treina recife/32.0 Conversores RequestDTO Model ResponseDTO.md",
+    "1.0 Aulas spring treina recife/29.0 GlobalExceptionHandler e RestControllerAdvice.md",
+    "1.0 Aulas spring treina recife/30.0 ErroPadraoResponseDto.md",
+    "1.0 Aulas spring treina recife/28.0 orElseThrow e o fim do if isNull.md",
+    "1.0 Aulas spring treina recife/27.0 Exceções customizadas.md",
+    "1.0 Aulas spring treina recife/38.0 Validando IDs de relacionamento no Service.md",
+    "1.0 Aulas spring treina recife/37.0 Tratando violações de integridade do banco.md",
+    "1.0 Aulas spring treina recife/35.0 Testando a API 3.0 no Insomnia.md",
+    "1.0 Aulas spring treina recife/31.0 Regras de negócio no Service.md",
+    "1.0 Aulas spring treina recife/26.0 Os ResponseDTOs.md",
+    "1.0 Aulas spring treina recife/24.0 RequestDTO vs ResponseDTO.md",
+    "1.0 Aulas spring treina recife/23.0 Testando a API 2.0 com o Insomnia.md"
+  ]
 }
