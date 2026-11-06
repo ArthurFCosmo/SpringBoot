@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3.0 Aulas API com testes e migrations/54.0 Validação exótica (crm) no DTO.md",
+                "file": "Fluxo eficiente de desenvolvimento de API's REST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "54.0 Validação exótica (crm) no DTO"
+              "title": "Fluxo eficiente de desenvolvimento de API's REST"
             }
           }
         ]
@@ -190,8 +190,9 @@
   },
   "active": "9bac7c317d3e4e39",
   "lastOpenFiles": [
-    "3.0 Aulas API com testes e migrations/53.0 Validação exótica (telefone) no DTO.md",
     "3.0 Aulas API com testes e migrations/54.0 Validação exótica (crm) no DTO.md",
+    "Fluxo eficiente de desenvolvimento de API's REST.md",
+    "3.0 Aulas API com testes e migrations/53.0 Validação exótica (telefone) no DTO.md",
     "3.0 Aulas API com testes e migrations/52.0 Migrations.md",
     "3.0 Aulas API com testes e migrations/51.0 Ajustes no gitignore + credenciais do BD.md",
     "1.0 Aulas spring treina recife/5.0 Início do projeto de fato.md",
@@ -215,7 +216,6 @@
     "1.0 Aulas spring treina recife/35.0 Testando a API 3.0 no Insomnia.md",
     "1.0 Aulas spring treina recife/31.0 Regras de negócio no Service.md",
     "1.0 Aulas spring treina recife/26.0 Os ResponseDTOs.md",
-    "1.0 Aulas spring treina recife/24.0 RequestDTO vs ResponseDTO.md",
-    "1.0 Aulas spring treina recife/23.0 Testando a API 2.0 com o Insomnia.md"
+    "1.0 Aulas spring treina recife/24.0 RequestDTO vs ResponseDTO.md"
   ]
 }
